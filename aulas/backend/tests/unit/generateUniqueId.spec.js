@@ -1,4 +1,3 @@
-const { into } = require('../../src/database/connection')
 const generateUniqueId = require('../../src/utils/generateUniqueId')
 
 describe('Generate Unique ID', () => {
